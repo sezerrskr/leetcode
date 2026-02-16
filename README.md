@@ -7,11 +7,13 @@ Collection of my LeetCode solutions and algorithm practice. Focused on Data Stru
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sezerrskr/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sezerrskr/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sezerrskr/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sezerrskr/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sezerrskr/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sezerrskr/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -20,6 +22,7 @@ Collection of my LeetCode solutions and algorithm practice. Focused on Data Stru
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sezerrskr/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sezerrskr/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
