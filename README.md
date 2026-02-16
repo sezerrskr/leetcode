@@ -6,10 +6,12 @@ Collection of my LeetCode solutions and algorithm practice. Focused on Data Stru
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sezerrskr/leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/sezerrskr/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sezerrskr/leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/sezerrskr/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
